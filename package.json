@@ -1,0 +1,10 @@
+{
+  "name": "bangla-dolil-ref",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bunx --bun vite"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
